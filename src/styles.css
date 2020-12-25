@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  margin: 50px;
+  padding: 50px;
+}

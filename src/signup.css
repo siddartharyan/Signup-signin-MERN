@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+}
+.top {
+  height: 50px;
+  width: 100%;
+  color: white;
+  background-color: rgb(50, 115, 220);
+  margin-bottom: 40px;
+}
+.link {
+  text-decoration: none;
+  color: blue;
+  margin-right: 20px;
+}
