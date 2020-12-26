@@ -78,7 +78,7 @@ function Signin() {
         Sign in
       </Button>
 
-      <Link to="/signup" className="link">
+      <Link to="/" className="link">
         Signup
       </Link>
     </div>
